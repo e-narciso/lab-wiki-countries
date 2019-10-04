@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd28227cb880082095a381685061f8f6",
+    "revision": "8c24ae451ca990f8fa70c9d0f315f8ae",
     "url": "/lab-wiki-countries/index.html"
   },
   {
-    "revision": "6bc3144dde0c56200a2c",
+    "revision": "b5af7689fdf0cedb8cbd",
     "url": "/lab-wiki-countries/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "32da5bd58824b9bbb0e8",
+    "revision": "6283779e72efce4f9c68",
     "url": "/lab-wiki-countries/static/css/main.ea35f720.chunk.css"
   },
   {
-    "revision": "6bc3144dde0c56200a2c",
-    "url": "/lab-wiki-countries/static/js/2.71584eb0.chunk.js"
+    "revision": "b5af7689fdf0cedb8cbd",
+    "url": "/lab-wiki-countries/static/js/2.6e5a3db8.chunk.js"
   },
   {
-    "revision": "32da5bd58824b9bbb0e8",
-    "url": "/lab-wiki-countries/static/js/main.e11fb54b.chunk.js"
+    "revision": "6283779e72efce4f9c68",
+    "url": "/lab-wiki-countries/static/js/main.35c4c1a2.chunk.js"
   },
   {
     "revision": "29fd73df3c8f8342b740",
