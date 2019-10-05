@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lab-wiki-countries/static/css/main.ea35f720.chunk.css",
-    "main.js": "/lab-wiki-countries/static/js/main.33d23e68.chunk.js",
-    "main.js.map": "/lab-wiki-countries/static/js/main.33d23e68.chunk.js.map",
+    "main.js": "/lab-wiki-countries/static/js/main.d1635d16.chunk.js",
+    "main.js.map": "/lab-wiki-countries/static/js/main.d1635d16.chunk.js.map",
     "runtime-main.js": "/lab-wiki-countries/static/js/runtime-main.50467aaa.js",
     "runtime-main.js.map": "/lab-wiki-countries/static/js/runtime-main.50467aaa.js.map",
     "static/css/2.510409cd.chunk.css": "/lab-wiki-countries/static/css/2.510409cd.chunk.css",
     "static/js/2.84a7f585.chunk.js": "/lab-wiki-countries/static/js/2.84a7f585.chunk.js",
     "static/js/2.84a7f585.chunk.js.map": "/lab-wiki-countries/static/js/2.84a7f585.chunk.js.map",
     "index.html": "/lab-wiki-countries/index.html",
-    "precache-manifest.895008b6a5c795e8b8d61718dfb5e730.js": "/lab-wiki-countries/precache-manifest.895008b6a5c795e8b8d61718dfb5e730.js",
+    "precache-manifest.0de810c94c334d5b1f018d8059f29693.js": "/lab-wiki-countries/precache-manifest.0de810c94c334d5b1f018d8059f29693.js",
     "service-worker.js": "/lab-wiki-countries/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/lab-wiki-countries/static/css/2.510409cd.chunk.css.map",
     "static/css/main.ea35f720.chunk.css.map": "/lab-wiki-countries/static/css/main.ea35f720.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.510409cd.chunk.css",
     "static/js/2.84a7f585.chunk.js",
     "static/css/main.ea35f720.chunk.css",
-    "static/js/main.33d23e68.chunk.js"
+    "static/js/main.d1635d16.chunk.js"
   ]
 }
