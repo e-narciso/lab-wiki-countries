@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95cd7ffb8ec449fb43404ec8e5a11868",
+    "revision": "5675917077c0e28acd7f0ec79a6e7040",
     "url": "/lab-wiki-countries/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lab-wiki-countries/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "4ed394cd5aa9fb7f4df2",
+    "revision": "b8ac41392aa889c3ac3c",
     "url": "/lab-wiki-countries/static/css/main.ea35f720.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lab-wiki-countries/static/js/2.84a7f585.chunk.js"
   },
   {
-    "revision": "4ed394cd5aa9fb7f4df2",
-    "url": "/lab-wiki-countries/static/js/main.3b0ad507.chunk.js"
+    "revision": "b8ac41392aa889c3ac3c",
+    "url": "/lab-wiki-countries/static/js/main.a87a33ec.chunk.js"
   },
   {
     "revision": "29fd73df3c8f8342b740",
